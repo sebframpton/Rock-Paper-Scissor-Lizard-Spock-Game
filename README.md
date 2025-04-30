@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/sebframpton/Rock-Paper-Scissor-Lizard-Spock-Game](https://github.com/sebframpton/Rock-Paper-Scissor-Lizard-Spock-Game)
+- Live Site URL: [https://sebframpton.github.io/Rock-Paper-Scissor-Lizard-Spock-Game/](https://sebframpton.github.io/Rock-Paper-Scissor-Lizard-Spock-Game/)
 
 ## My process
 
